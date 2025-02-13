@@ -1,0 +1,9 @@
+.link{
+text-decoration: none;
+background-color: black;
+color: bisque;
+font-size: larger;
+font-style: italic; font-language-override: inherit;
+font: optional;
+
+}
