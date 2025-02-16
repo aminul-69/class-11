@@ -1,9 +1,9 @@
-.link{
-text-decoration: none;
-background-color: black;
-color: bisque;
-font-size: larger;
-font-style: italic; font-language-override: inherit;
-font: optional;
-
-}
+.A1{background-color: blue;color: white; text-decoration: solid;}
+.A2{background-color: aquamarine;color: brown;text-decoration: double;}
+.A5{background-color: black; color: azure; text-underline-offset: none;
+text-decoration: none;}
+.A6{text-decoration: none;}
+.A7{text-decoration: solid;}
+.A7{text-decoration: solid;}
+.A8{text-decoration: dashed;}
+.A9{text-decoration: double;}
